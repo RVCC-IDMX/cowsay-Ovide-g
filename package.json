@@ -1,0 +1,20 @@
+{
+  "name": "cowsay-ovide-g",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RVCC-IDMX/cowsay-Ovide-g.git"
+  },
+  "keywords": [],
+  "author": "Garry Ovide <garry.ovide@raritanval.edu> (htpps://github.com/garryovide)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RVCC-IDMX/cowsay-Ovide-g/issues"
+  },
+  "homepage": "https://github.com/RVCC-IDMX/cowsay-Ovide-g#readme"
+}
